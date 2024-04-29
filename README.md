@@ -1,6 +1,6 @@
 # SxchevNation 🌟
 
-![SxchevNation web](https://i.imgur.com/790WMyY.png)
+![SxchevNation web](https://i.imgur.com/XZm7z7l.png)
 
 ## Description
 SxchevNation is a web project aimed at providing inspiration in web design. It's built using HTML, CSS, and JavaScript, with additional use of jQuery and FontAwesome.
