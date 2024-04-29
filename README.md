@@ -22,5 +22,3 @@ Explore the world of web design inspiration with SxchevNation! Browse through th
 ## Credits 👏
 - Created by vovgoo.
 
-## License 📝
-This project is licensed under the MIT License.
