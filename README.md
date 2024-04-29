@@ -13,7 +13,7 @@ SxchevNation is a web project aimed at providing inspiration in web design. It's
 ## Installation 🚀
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/SxchevNation.git
+   git clone https://github.com/vovgoo/SxchevNation-web.git
 2. Open index.html in your web browser.
 
 ## Usage 🖱️
